@@ -40,7 +40,3 @@ pip install ebooklib beautifulsoup4 pdfkit tkinter
 - 若發生亂碼問題，請確認 EPUB 檔案的編碼格式。
 - 確保 `wkhtmltopdf` 正確安裝，否則 PDF 轉換功能無法運作。
 
-## 授權
-
-本專案基於 MIT License 開放原始碼，可自由使用與修改。
-
